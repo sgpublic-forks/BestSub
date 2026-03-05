@@ -19,3 +19,5 @@ bin/*
 # data
 data
 internal/core/subconv/subconv.es5.js
+
+/.idea
